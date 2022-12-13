@@ -9,7 +9,7 @@ Nous avons décider de concevoir une application d'aide à la désision pour év
 - Google Colab
 
 # Commencer
-1. Pour commencer, vous pouvez copier se projet.
+1. Commencer par copier ce projet.
 2. Liser le rapport technique afin de vous familiriser avec la démarche d'analyse.
 3. Ouvrez le notebook template et suiver les instructions
 
